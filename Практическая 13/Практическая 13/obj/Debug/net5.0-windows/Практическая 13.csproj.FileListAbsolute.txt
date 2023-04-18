@@ -1,0 +1,36 @@
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.deps.json
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.runtimeconfig.json
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\ref\Практическая 13.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая_13.Form1.resources
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\ref\Практическая 13.dll
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.genruntimeconfig.cache
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая_13.Form1.resources
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.csproj.GenerateResource.cache
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.AssemblyInfoInputs.cache
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.AssemblyInfo.cs
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.dll
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.pdb
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.exe
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.deps.json
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.runtimeconfig.json
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.runtimeconfig.dev.json
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.dll
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\bin\Debug\net5.0-windows\Практическая 13.pdb
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\refint\Практическая 13.dll
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\Практическая 13.genruntimeconfig.cache
+C:\Users\андрей\Desktop\Practic13_C--main\Практическая 13\Практическая 13\obj\Debug\net5.0-windows\ref\Практическая 13.dll
